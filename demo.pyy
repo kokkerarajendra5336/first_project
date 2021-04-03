@@ -1,0 +1,3 @@
+list1=['rajendra','kokkera','rvr','cse']
+list1.sort()
+print(list1)
